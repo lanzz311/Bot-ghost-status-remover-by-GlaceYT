@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["discord.gg/ivycommofficial"];
+const statusMessages = [" "];
 
 
 let currentIndex = 0;
