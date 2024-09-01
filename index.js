@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["I'M GAMEBOT OFFICIAL"];
+const statusMessages = [""];
 
 
 let currentIndex = 0;
